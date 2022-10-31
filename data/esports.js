@@ -1024,7 +1024,7 @@ const data = [
     name: "bgc- san antonio (tx)",
     staff: ["emmanuel sanchez"],
     email: ["esanchez@begreatsa.org"],
-    state: "tx",
+    state: "texas",
     tag: [],
     system: ["xbox 1", "ps4", "switch "],
     games: ["madden", "nba 2k", "cod", "fifa", "super smash bros."],
